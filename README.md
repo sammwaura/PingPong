@@ -36,7 +36,7 @@ This project is about a PingPong application that replaces certain numbers in th
 *open your default web browser
 internet connection is required
 
-*search for Samuel Mwaura on github and click on the repository Anitas Kitchen where you will find an active link to the site in the repository.
+*search for Samuel Mwaura on github and click on the repository PingPong where you will find an active link to the site in the repository.
 
 *Scroll through the page and view the content
 
@@ -50,4 +50,4 @@ HTML, JavaScript, CSS
 Live Link: https://sammwaura.github.io/PingPong/.
 
 Lincensing:
-Copyright (c) 2018 Samuel Mwaura 
+Copyright (c) 2018 Samuel Mwaura
