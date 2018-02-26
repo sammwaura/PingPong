@@ -24,6 +24,10 @@ This project is about a PingPong application that replaces certain numbers in th
 
 *Used a function countUp to count up to the inputted number while changing the multiples of 3, 5 and 15
 
+*Included a function to clear the input field after successful submission of a number.
+
+*
+
 
 
 
