@@ -57,7 +57,7 @@ background-color: red;
 .sidebar-nav li a {
   display: block;
   text-decoration: none;
-  color: #999999;
+  color: #28a745;
 }
 
 .sidebar-nav li a:hover {
@@ -77,11 +77,11 @@ background-color: red;
 }
 
 .sidebar-nav .sidebar-brand a {
-  color: #999999;
+  color: #e83e8c;
 }
 
 .sidebar-nav .sidebar-brand a:hover {
-  color: #fff;
+  color: #6c757d;
   background: none;
 }
 
@@ -111,7 +111,7 @@ background-color: red;
 }
 
 .content {
- background: rgba(0, 0, 0, 0.5);   
+ background: rgba(0, 0, 0, 0.5);
  font-family: monospace;
   font-size: 20px;
   color:white;
