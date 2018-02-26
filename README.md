@@ -16,6 +16,16 @@ This project is about a PingPong application that replaces certain numbers in th
 
 
 #### Specifications ####
+*Used loopLimit to pick the limit from the input box
+
+*Used provitionalTotal to initialize the total
+
+*Used the for loop so as to follow with rules in the Description above
+
+*Used a function countUp to count up to the inputted number while changing the multiples of 3, 5 and 15
+
+
+
 
 
 
